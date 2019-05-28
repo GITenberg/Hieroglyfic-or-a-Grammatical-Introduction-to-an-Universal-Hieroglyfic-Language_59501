@@ -1,11 +1,16 @@
 _repo: Hieroglyfic-or-a-Grammatical-Introduction-to-an-Universal-Hieroglyfic-Language_59501
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 59501-h/images/cover.jpg
 creator:
   author:
     agent_name: Jones, Rowland
     gutenberg_agent_id: '50480'
     url: http://www.gutenberg.org/2009/agents/50480
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/59501#Hieroglyfic-or-a-Grammatical-Introduction-to-an-Universal-Hieroglyfic-Language
 gutenberg_issued: '2019-05-13'
 gutenberg_type: Text
 identifiers:
